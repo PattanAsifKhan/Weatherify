@@ -1,0 +1,27 @@
+.weather{
+    font-size: 1.5em;
+    font-family: sans-serif;
+    text-align: center;
+
+}
+.temp{
+    font-size: 2em;
+    font-family: sans-serif;
+    text-align: center;
+
+}
+.location{
+    font-size: 1.5em;
+    font-family: sans-serif;
+    text-align: center;
+}
+
+div{
+    width: 150px;
+    margin: auto;
+}
+.box{
+border:1px solid black;
+padding:10px;
+border-radius: 10px;
+}
